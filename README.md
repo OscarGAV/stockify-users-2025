@@ -4,4 +4,9 @@ Esta FakeAPI ofrece un conjunto de datos simulados sobre usuarios registrados, i
 
 [My JSON Server – Stockify Users 2025](https://my-json-server.typicode.com/OscarGAV/stockify-users-2025)
 
-## Nota: El valor del HASH decodificado de la contraseña es "admin"
+# Nota: El valor del HASH decodificado de la contraseña es "admin"
+
+## Available Resources
+
+[https://my-json-server.typicode.com/OscarGAV/stockify-users-2025/users](https://my-json-server.typicode.com/OscarGAV/stockify-users-2025/users
+)
